@@ -9,7 +9,7 @@ The **Bias Detector** is a simple Java application designed to identify potentia
 - **Multiple Bias Types**: Supports multiple types of cognitive biases like confirmation bias, availability bias, and more.
 - **Simple Interaction**: User-friendly text input and output directly in the console.
 
-## Future Updates / Roadmap
+## Future Updates
 
 - **AI-Based Bias Detection**: Implement machine learning or natural language processing (NLP) models to intelligently detect bias in text based on context, rather than just matching predefined keywords. This will enhance the detection's accuracy and flexibility.
 - **Expanded Bias Detection**: Add more bias types to the detection list (e.g., self-serving bias, in-group bias).
