@@ -3,7 +3,7 @@
 ## About the Project
 The **Bias Detector** is a simple Java application designed to identify potential biases in a given text input. The program checks for specific keywords associated with various cognitive biases, such as **confirmation bias**, **availability bias**, and **hindsight bias**, among others. When a user inputs a string of text, the app scans it and highlights any words or phrases that may suggest biased thinking.
 
-##Features
+## Features
 
 - **Bias Detection**: Identifies words associated with various cognitive biases in the user's text.
 - **Multiple Bias Types**: Supports multiple types of cognitive biases like confirmation bias, availability bias, and more.
